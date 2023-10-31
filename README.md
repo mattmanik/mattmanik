@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="center">  🌱 I’m currently learning **NodeJs and React Native** </h3>
-
 <h3 align="center"> 💬 Ask me about **React, Javascript, SCSS, NextJS & GraphQL** </h3>
 
   <h3 align="center"> 📫 How to reach me **manikandanvairavamoorthy@gmail.com** </h3>
