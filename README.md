@@ -33,10 +33,6 @@
     </a>
   </p>
 <div align="center">
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mattmanik&show_icons=true" alt="Mani's GitHub stats">
-  </p>
 </div>
 
 
