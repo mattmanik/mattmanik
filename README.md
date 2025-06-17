@@ -35,6 +35,3 @@
 <div align="center">
 </div>
 
-
-<h3 align="center">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/mani22beN"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mani22beN" /></a></p><br><br>
